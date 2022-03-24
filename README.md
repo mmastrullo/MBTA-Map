@@ -1,4 +1,5 @@
 # MBTA Bus 1 Tracker
+<img src= "Bus-Tracker.png" width='300'>
 
 ## Description of the project: 
 This tracks the locations of the buses that run between MIT and Harvard. The locations update every 15 seconds.
